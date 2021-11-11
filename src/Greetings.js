@@ -7,7 +7,7 @@ function Greetings(props) {
     return <p> Hola {props.children}</p>;     
   } else if(props.lang === "en") {
       return <p> Hello {props.children}</p>;  
-  }
+  } 
 }
 
 export default Greetings;

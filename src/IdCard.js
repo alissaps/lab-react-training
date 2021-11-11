@@ -18,7 +18,7 @@ function IdCard(props) {
                 </div>
             </div>
         </div>
-    )
+    ) 
 }
 
 export default IdCard;
